@@ -2,7 +2,7 @@
 
 > **Purpose:** A ranked reference of every Studio Simpatico project. Use this to decide which case studies to share with prospects, and to draw on the full breadth of experience even for projects without a strong public case study.
 >
-> **Last updated:** March 2026 | **Total projects:** 102
+> **Last updated:** March 2026 | **Total projects:** 103
 
 ---
 
@@ -123,12 +123,13 @@
 | 100 | ⚪ REFERENCE ONLY | [Six Pony Hitch](https://studiosimpati.co/work/six-pony-hitch) | Professional Services | WordPress Development |
 | 101 | ⚪ REFERENCE ONLY | [Studio Greytak](https://studiosimpati.co/work/studio-greytak) | Beauty & Fashion | WordPress Development |
 | 102 | ⚪ REFERENCE ONLY | [Zellnor Myrie for NY State Senate](https://studiosimpati.co/work/zellnor-myrie-campaign-website) | Nonprofit Organizations | WordPress Development |
+| 103 | 🟡 SITUATIONAL | Subscribe | FinTech | Branding & Visual Identity, Web Design, WordPress Development |
 
 ---
 
 ## Projects by Service
 
-**Branding & Visual Identity:** Henry Luce Foundation • Greenroom • Fireblocks • Fieldtech • Portico • The Kurt Weill Foundation • Girl Be Heard • Nace Partners • Praetorian • SAA|EVI • Alt Legal • SimplyPut • Kailua Village • Landing Rock • Sweet Origins • Hodara Real Estate • Throughline • Global Citizen Year • WireSecure • REDI • Altana Trade • Qüero Shoes • Melon Patch
+**Branding & Visual Identity:** Henry Luce Foundation • Greenroom • Fireblocks • Fieldtech • Portico • The Kurt Weill Foundation • Girl Be Heard • Nace Partners • Praetorian • SAA|EVI • Alt Legal • SimplyPut • Kailua Village • Landing Rock • Sweet Origins • Hodara Real Estate • Throughline • Global Citizen Year • WireSecure • REDI • Altana Trade • Qüero Shoes • Melon Patch • Subscribe
 
 **Illustration:** AmpleHarvest.org
 
@@ -140,11 +141,11 @@
 
 **Visual Identity Refresh:** Big Green
 
-**Web Design:** Henry Luce Foundation • Silver Mirror Facial Bar • Oshi Health • Isaac Health • Slickdeals Money: A Studio Simpatico Case Study • Urban Pathways • Natural Areas Conservancy • Centivo • Nuasin Next Generation • Fireblocks • Fieldtech • HIAS • Artistic Freedom Initiative • Iron and Air: A Studio Simpatico Case Study • AmpleHarvest.org • WIEGO • Big Green • Paladin • The Kurt Weill Foundation • Girl Be Heard • Grasshopper Bank • SEEHER: A Studio Simpatico Design Case Study • Central Park West Dentistry • Nace Partners • Praetorian • Alt Legal • Blockdaemon • SimplyPut • Smart Arches Dental Implants • Frogslayer • White Star Capital • Montieth & Company • Global Citizen Year • Orum • #EngageResponsibly
+**Web Design:** Henry Luce Foundation • Silver Mirror Facial Bar • Oshi Health • Isaac Health • Slickdeals Money: A Studio Simpatico Case Study • Urban Pathways • Natural Areas Conservancy • Centivo • Nuasin Next Generation • Fireblocks • Fieldtech • HIAS • Artistic Freedom Initiative • Iron and Air: A Studio Simpatico Case Study • AmpleHarvest.org • WIEGO • Big Green • Paladin • The Kurt Weill Foundation • Girl Be Heard • Grasshopper Bank • SEEHER: A Studio Simpatico Design Case Study • Central Park West Dentistry • Nace Partners • Praetorian • Alt Legal • Blockdaemon • SimplyPut • Smart Arches Dental Implants • Frogslayer • White Star Capital • Montieth & Company • Global Citizen Year • Orum • #EngageResponsibly • Subscribe
 
 **Web Design & Development:** C.A. Goldberg • Caliber Fitness • Harper's Magazine • OK! Magazine • Road Warrior • M.M.LaFleur • Muscle & Fitness • HSD Law Firm • Onera • Revivery • SAA|EVI • Prose Hair • Ellenoff, Grossman & Schole • MBB Architects • Silverline • Landing Rock • PromoteIQ • Ossining Public Library • Document Journal • Gensler • NaNoWriMo • Sweet Origins • Hodara Real Estate • National Civic League • Brooklyn Botanic Garden • Sempre Health • Throughline • Unilever Black Book • EVEN Financial • WireSecure • REDI • Altana Trade • Auto Tek & Eurocar-Werk • Qüero Shoes • Versed • National Center for Science Education • Altonomy • Canopy Foods • F&S Contracting • Pack Labs • SDA Lighting • SquareFoot • Tap Click Read • Velocity Markets
 
-**WordPress Development:** Henry Luce Foundation • Silver Mirror Facial Bar • Oshi Health • Isaac Health • Slickdeals Money: A Studio Simpatico Case Study • C.A. Goldberg • Urban Pathways • Natural Areas Conservancy • Centivo • Nuasin Next Generation • Fireblocks • Fieldtech • HIAS • Artistic Freedom Initiative • Iron and Air: A Studio Simpatico Case Study • AmpleHarvest.org • WIEGO • Big Green • Paladin • The Kurt Weill Foundation • Girl Be Heard • Caliber Fitness • Grasshopper Bank • SEEHER: A Studio Simpatico Design Case Study • Harper's Magazine • Ten To One Rum • Road Warrior • Central Park West Dentistry • M.M.LaFleur • Nace Partners • HSD Law Firm • Onera • Praetorian • Revivery • SAA|EVI • Alt Legal • Blockdaemon • Prose Hair • SimplyPut • Smart Arches Dental Implants • SoHo Broadway • Ellenoff, Grossman & Schole • Frogslayer • MBB Architects • Silverline • White Star Capital • Haven Life • Landing Rock • PromoteIQ • The Forward • Ossining Public Library • Document Journal • Montieth & Company • Gensler • Hudson Capital • Sweet Origins • Hodara Real Estate • National Civic League • Sempre Health • Throughline • Unilever Black Book • EVEN Financial • WireSecure • REDI • Orchard Platform • The Lakota Group • Altana Trade • Auto Tek & Eurocar-Werk • Galvanized Media • Intent Media • Qüero Shoes • TC USA • Versed • Orum • Brennan Real Estate Minisites • Canopy Foods • #EngageResponsibly • F&S Contracting • Pack Labs • SDA Lighting • SquareFoot • Tap Click Read • Velocity Markets • Biomimicry • Brennan Real Estate • PatientOne • Six Pony Hitch • Studio Greytak • Zellnor Myrie for NY State Senate
+**WordPress Development:** Henry Luce Foundation • Silver Mirror Facial Bar • Oshi Health • Isaac Health • Slickdeals Money: A Studio Simpatico Case Study • C.A. Goldberg • Urban Pathways • Natural Areas Conservancy • Centivo • Nuasin Next Generation • Fireblocks • Fieldtech • HIAS • Artistic Freedom Initiative • Iron and Air: A Studio Simpatico Case Study • AmpleHarvest.org • WIEGO • Big Green • Paladin • The Kurt Weill Foundation • Girl Be Heard • Caliber Fitness • Grasshopper Bank • SEEHER: A Studio Simpatico Design Case Study • Harper's Magazine • Ten To One Rum • Road Warrior • Central Park West Dentistry • M.M.LaFleur • Nace Partners • HSD Law Firm • Onera • Praetorian • Revivery • SAA|EVI • Alt Legal • Blockdaemon • Prose Hair • SimplyPut • Smart Arches Dental Implants • SoHo Broadway • Ellenoff, Grossman & Schole • Frogslayer • MBB Architects • Silverline • White Star Capital • Haven Life • Landing Rock • PromoteIQ • The Forward • Ossining Public Library • Document Journal • Montieth & Company • Gensler • Hudson Capital • Sweet Origins • Hodara Real Estate • National Civic League • Sempre Health • Throughline • Unilever Black Book • EVEN Financial • WireSecure • REDI • Orchard Platform • The Lakota Group • Altana Trade • Auto Tek & Eurocar-Werk • Galvanized Media • Intent Media • Qüero Shoes • TC USA • Versed • Orum • Brennan Real Estate Minisites • Canopy Foods • #EngageResponsibly • F&S Contracting • Pack Labs • SDA Lighting • SquareFoot • Tap Click Read • Velocity Markets • Biomimicry • Brennan Real Estate • PatientOne • Six Pony Hitch • Studio Greytak • Zellnor Myrie for NY State Senate • Subscribe
 
 ---
 
@@ -158,7 +159,7 @@
 
 **Editorial:** Slickdeals Money: A Studio Simpatico Case Study • Iron and Air: A Studio Simpatico Case Study • Harper's Magazine • OK! Magazine • Muscle & Fitness • The Forward
 
-**FinTech:** Grasshopper Bank • Haven Life • Landing Rock • Orchard Platform
+**FinTech:** Grasshopper Bank • Haven Life • Landing Rock • Orchard Platform • Subscribe
 
 **Food & Beverage:** Ten To One Rum • Canopy Foods • Pack Labs • Melon Patch
 
@@ -195,6 +196,7 @@
 | **Industry** | Nonprofit Organizations |
 | **Services** | Branding & Visual Identity, Web Design, WordPress Development |
 | **Case Study Link** | [https://studiosimpati.co/work/henry-luce-foundation](https://studiosimpati.co/work/henry-luce-foundation) |
+| **Brand Guide** | [Henry Luce Foundation Brand Guide (PDF)](https://studiosimpati.co/wp-content/uploads/2024/11/Henry-Luce-Foundation-Brand-Guide_11.08.24.pdf) |
 
 **What We Did**
 
@@ -555,6 +557,7 @@ Abbey Yvon VP, Marketing at Centivo
 | **Industry** | B2B |
 | **Services** | Branding & Visual Identity |
 | **Case Study Link** | [https://studiosimpati.co/work/greenroom](https://studiosimpati.co/work/greenroom) |
+| **Brand Guide** | [Greenroom Brand Guide (PDF)](https://studiosimpati.co/wp-content/uploads/2026/02/Greenroom-Brand-Guide.pdf) |
 
 **What We Did**
 
@@ -647,6 +650,7 @@ We've supported Fireblocks since the beginning
 | **Industry** | B2B |
 | **Services** | Branding & Visual Identity, Web Design, WordPress Development |
 | **Case Study Link** | [https://studiosimpati.co/work/fieldtech](https://studiosimpati.co/work/fieldtech) |
+| **Brand Guide** | [Fieldtech Brand Guide (PDF)](https://studiosimpati.co/wp-content/uploads/2024/07/2024.07.11-Fieldtech-Brand-Guide.pdf) |
 
 **What We Did**
 
@@ -785,6 +789,7 @@ Iron & Air editorial focuses on “motorcycles, and the places they take us.” 
 | **Industry** | B2B |
 | **Services** | Branding & Visual Identity, UX Design & Research Consulting |
 | **Case Study Link** | [https://studiosimpati.co/work/portico](https://studiosimpati.co/work/portico) |
+| **Brand Guide** | [Portico Brand Guide (PDF)](https://studiosimpati.co/wp-content/uploads/2024/08/Portico-Brand-Guide.pdf) |
 
 **What We Did**
 
@@ -943,6 +948,7 @@ Using an atomic design approach, we designed storytelling modules that can be us
 | **Industry** | Nonprofit Organizations |
 | **Services** | Branding & Visual Identity, Web Design, WordPress Development |
 | **Case Study Link** | [https://studiosimpati.co/work/the-kurt-weill-foundation](https://studiosimpati.co/work/the-kurt-weill-foundation) |
+| **Brand Guide** | [Kurt Weill Foundation Brand Guide (PDF)](https://studiosimpati.co/wp-content/uploads/2023/01/KWF-Brand-Guide.pdf) |
 
 **What We Did**
 
@@ -2887,6 +2893,24 @@ Our long term partner Six Pony Hitch engaged Studio Simpatico to build a dynamic
 **What We Did**
 
 We worked with our creative partner Raphael Del Rio to bring designs for Zellnor Myrie's campaign website to life via a custom WordPress theme. The site shares Zellnor's story, and highlights events and other ways for supporters to get involved.
+
+---
+
+### 103. Subscribe
+
+🟡 **SITUATIONAL** — Use when the industry/service match is particularly strong. Especially relevant for FinTech, B2B SaaS, or alternative investments prospects.
+
+*A full brand refresh and marketing website for a digital infrastructure platform powering alternative investments*
+
+| | |
+|---|---|
+| **Industry** | FinTech |
+| **Services** | Branding & Visual Identity, Web Design, WordPress Development |
+| **Brand Guide** | [Subscribe Brand Guide (PDF)](https://studiosimpati.co/wp-content/uploads/2024/11/Subscribe-Brand-Guide_11.24.pdf) |
+
+**What We Did**
+
+We partnered with Subscribe (formerly SAF Platform) on a full brand refresh and marketing website. Subscribe is a central operating platform for private fund investments that digitizes and streamlines the entire fund investment lifecycle — including investor onboarding, subscription documents, AML/KYC compliance, and reporting — serving fund managers, institutional investors, wealth managers, law firms, and fund administrators. Thousands of organizations globally manage trillions in private market assets on the platform, with major firms like BlackRock among its clients. Their vision is to democratize private markets, and their mission is to digitally power alternative investments. Our relationship with Subscribe dates back to 2016, and we were later brought back to reimagine the company's full visual identity and marketing website from the ground up. The comprehensive brand guide covers visual identity, typography, color palette, photography direction, web styles, collateral templates, social media guidelines, product design standards, and email templates.
 
 ---
 
