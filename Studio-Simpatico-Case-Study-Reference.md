@@ -2,7 +2,7 @@
 
 > **Purpose:** A ranked reference of every Studio Simpatico project. Use this to decide which case studies to share with prospects, and to draw on the full breadth of experience even for projects without a strong public case study.
 >
-> **Last updated:** March 2026 | **Total projects:** 103
+> **Last updated:** March 2026 | **Total projects:** 107
 
 ---
 
@@ -124,6 +124,10 @@
 | 101 | ⚪ REFERENCE ONLY | [Studio Greytak](https://studiosimpati.co/work/studio-greytak) | Beauty & Fashion | WordPress Development |
 | 102 | ⚪ REFERENCE ONLY | [Zellnor Myrie for NY State Senate](https://studiosimpati.co/work/zellnor-myrie-campaign-website) | Nonprofit Organizations | WordPress Development |
 | 103 | 🟡 SITUATIONAL | Subscribe | FinTech | Branding & Visual Identity, Web Design, WordPress Development |
+| 104 | ✅ STRONG | OG Sanctuary City (Domestic Violence Project at Urban Justice Center) | Nonprofit Organizations | Web Design, WordPress Development |
+| 105 | ✅ STRONG | CitizensNYC (Citizens Committee for New York City) | Nonprofit Organizations | Web Design, WordPress Development |
+| 106 | 🟡 SITUATIONAL | Slice Communications | Professional Services | Web Design, WordPress Development |
+| 107 | ✅ STRONG | GrowNYC | Nonprofit Organizations | Web Design, WordPress Development |
 
 ---
 
@@ -141,11 +145,11 @@
 
 **Visual Identity Refresh:** Big Green
 
-**Web Design:** Henry Luce Foundation • Silver Mirror Facial Bar • Oshi Health • Isaac Health • Slickdeals Money: A Studio Simpatico Case Study • Urban Pathways • Natural Areas Conservancy • Centivo • Nuasin Next Generation • Fireblocks • Fieldtech • HIAS • Artistic Freedom Initiative • Iron and Air: A Studio Simpatico Case Study • AmpleHarvest.org • WIEGO • Big Green • Paladin • The Kurt Weill Foundation • Girl Be Heard • Grasshopper Bank • SEEHER: A Studio Simpatico Design Case Study • Central Park West Dentistry • Nace Partners • Praetorian • Alt Legal • Blockdaemon • SimplyPut • Smart Arches Dental Implants • Frogslayer • White Star Capital • Montieth & Company • Global Citizen Year • Orum • #EngageResponsibly • Subscribe
+**Web Design:** Henry Luce Foundation • Silver Mirror Facial Bar • Oshi Health • Isaac Health • Slickdeals Money: A Studio Simpatico Case Study • Urban Pathways • Natural Areas Conservancy • Centivo • Nuasin Next Generation • Fireblocks • Fieldtech • HIAS • Artistic Freedom Initiative • Iron and Air: A Studio Simpatico Case Study • AmpleHarvest.org • WIEGO • Big Green • Paladin • The Kurt Weill Foundation • Girl Be Heard • Grasshopper Bank • SEEHER: A Studio Simpatico Design Case Study • Central Park West Dentistry • Nace Partners • Praetorian • Alt Legal • Blockdaemon • SimplyPut • Smart Arches Dental Implants • Frogslayer • White Star Capital • Montieth & Company • Global Citizen Year • Orum • #EngageResponsibly • Subscribe • OG Sanctuary City • CitizensNYC • Slice Communications • GrowNYC
 
 **Web Design & Development:** C.A. Goldberg • Caliber Fitness • Harper's Magazine • OK! Magazine • Road Warrior • M.M.LaFleur • Muscle & Fitness • HSD Law Firm • Onera • Revivery • SAA|EVI • Prose Hair • Ellenoff, Grossman & Schole • MBB Architects • Silverline • Landing Rock • PromoteIQ • Ossining Public Library • Document Journal • Gensler • NaNoWriMo • Sweet Origins • Hodara Real Estate • National Civic League • Brooklyn Botanic Garden • Sempre Health • Throughline • Unilever Black Book • EVEN Financial • WireSecure • REDI • Altana Trade • Auto Tek & Eurocar-Werk • Qüero Shoes • Versed • National Center for Science Education • Altonomy • Canopy Foods • F&S Contracting • Pack Labs • SDA Lighting • SquareFoot • Tap Click Read • Velocity Markets
 
-**WordPress Development:** Henry Luce Foundation • Silver Mirror Facial Bar • Oshi Health • Isaac Health • Slickdeals Money: A Studio Simpatico Case Study • C.A. Goldberg • Urban Pathways • Natural Areas Conservancy • Centivo • Nuasin Next Generation • Fireblocks • Fieldtech • HIAS • Artistic Freedom Initiative • Iron and Air: A Studio Simpatico Case Study • AmpleHarvest.org • WIEGO • Big Green • Paladin • The Kurt Weill Foundation • Girl Be Heard • Caliber Fitness • Grasshopper Bank • SEEHER: A Studio Simpatico Design Case Study • Harper's Magazine • Ten To One Rum • Road Warrior • Central Park West Dentistry • M.M.LaFleur • Nace Partners • HSD Law Firm • Onera • Praetorian • Revivery • SAA|EVI • Alt Legal • Blockdaemon • Prose Hair • SimplyPut • Smart Arches Dental Implants • SoHo Broadway • Ellenoff, Grossman & Schole • Frogslayer • MBB Architects • Silverline • White Star Capital • Haven Life • Landing Rock • PromoteIQ • The Forward • Ossining Public Library • Document Journal • Montieth & Company • Gensler • Hudson Capital • Sweet Origins • Hodara Real Estate • National Civic League • Sempre Health • Throughline • Unilever Black Book • EVEN Financial • WireSecure • REDI • Orchard Platform • The Lakota Group • Altana Trade • Auto Tek & Eurocar-Werk • Galvanized Media • Intent Media • Qüero Shoes • TC USA • Versed • Orum • Brennan Real Estate Minisites • Canopy Foods • #EngageResponsibly • F&S Contracting • Pack Labs • SDA Lighting • SquareFoot • Tap Click Read • Velocity Markets • Biomimicry • Brennan Real Estate • PatientOne • Six Pony Hitch • Studio Greytak • Zellnor Myrie for NY State Senate • Subscribe
+**WordPress Development:** Henry Luce Foundation • Silver Mirror Facial Bar • Oshi Health • Isaac Health • Slickdeals Money: A Studio Simpatico Case Study • C.A. Goldberg • Urban Pathways • Natural Areas Conservancy • Centivo • Nuasin Next Generation • Fireblocks • Fieldtech • HIAS • Artistic Freedom Initiative • Iron and Air: A Studio Simpatico Case Study • AmpleHarvest.org • WIEGO • Big Green • Paladin • The Kurt Weill Foundation • Girl Be Heard • Caliber Fitness • Grasshopper Bank • SEEHER: A Studio Simpatico Design Case Study • Harper's Magazine • Ten To One Rum • Road Warrior • Central Park West Dentistry • M.M.LaFleur • Nace Partners • HSD Law Firm • Onera • Praetorian • Revivery • SAA|EVI • Alt Legal • Blockdaemon • Prose Hair • SimplyPut • Smart Arches Dental Implants • SoHo Broadway • Ellenoff, Grossman & Schole • Frogslayer • MBB Architects • Silverline • White Star Capital • Haven Life • Landing Rock • PromoteIQ • The Forward • Ossining Public Library • Document Journal • Montieth & Company • Gensler • Hudson Capital • Sweet Origins • Hodara Real Estate • National Civic League • Sempre Health • Throughline • Unilever Black Book • EVEN Financial • WireSecure • REDI • Orchard Platform • The Lakota Group • Altana Trade • Auto Tek & Eurocar-Werk • Galvanized Media • Intent Media • Qüero Shoes • TC USA • Versed • Orum • Brennan Real Estate Minisites • Canopy Foods • #EngageResponsibly • F&S Contracting • Pack Labs • SDA Lighting • SquareFoot • Tap Click Read • Velocity Markets • Biomimicry • Brennan Real Estate • PatientOne • Six Pony Hitch • Studio Greytak • Zellnor Myrie for NY State Senate • Subscribe • OG Sanctuary City • CitizensNYC • Slice Communications • GrowNYC
 
 ---
 
@@ -171,9 +175,9 @@
 
 **Legal Tech & Law Firms:** C.A. Goldberg • Artistic Freedom Initiative • Paladin • HSD Law Firm • Alt Legal • Ellenoff, Grossman & Schole
 
-**Nonprofit Organizations:** Henry Luce Foundation • Urban Pathways • Natural Areas Conservancy • Nuasin Next Generation • HIAS • AmpleHarvest.org • WIEGO • Big Green • The Kurt Weill Foundation • Girl Be Heard • SEEHER: A Studio Simpatico Design Case Study • SoHo Broadway • Ossining Public Library • NaNoWriMo • National Civic League • Brooklyn Botanic Garden • Global Citizen Year • REDI • National Center for Science Education • Ecology Project International • #EngageResponsibly • Tap Click Read • Zellnor Myrie for NY State Senate
+**Nonprofit Organizations:** Henry Luce Foundation • Urban Pathways • Natural Areas Conservancy • Nuasin Next Generation • HIAS • AmpleHarvest.org • WIEGO • Big Green • The Kurt Weill Foundation • Girl Be Heard • SEEHER: A Studio Simpatico Design Case Study • SoHo Broadway • Ossining Public Library • NaNoWriMo • National Civic League • Brooklyn Botanic Garden • Global Citizen Year • REDI • National Center for Science Education • Ecology Project International • #EngageResponsibly • Tap Click Read • Zellnor Myrie for NY State Senate • OG Sanctuary City • CitizensNYC • GrowNYC
 
-**Professional Services:** Frogslayer • MBB Architects • Montieth & Company • Gensler • Unilever Black Book • The Lakota Group • Auto Tek & Eurocar-Werk • F&S Contracting • SDA Lighting • Biomimicry • Six Pony Hitch
+**Professional Services:** Frogslayer • MBB Architects • Montieth & Company • Gensler • Unilever Black Book • The Lakota Group • Auto Tek & Eurocar-Werk • F&S Contracting • SDA Lighting • Biomimicry • Six Pony Hitch • Slice Communications
 
 **Real Estate:** SAA|EVI • Kailua Village • Hudson Capital • Hodara Real Estate • Brennan Real Estate Minisites • Brennan Real Estate
 
@@ -2911,6 +2915,160 @@ We worked with our creative partner Raphael Del Rio to bring designs for Zellnor
 **What We Did**
 
 We partnered with Subscribe (formerly SAF Platform) on a full brand refresh and marketing website. Subscribe is a central operating platform for private fund investments that digitizes and streamlines the entire fund investment lifecycle — including investor onboarding, subscription documents, AML/KYC compliance, and reporting — serving fund managers, institutional investors, wealth managers, law firms, and fund administrators. Thousands of organizations globally manage trillions in private market assets on the platform, with major firms like BlackRock among its clients. Their vision is to democratize private markets, and their mission is to digitally power alternative investments. Our relationship with Subscribe dates back to 2016, and we were later brought back to reimagine the company's full visual identity and marketing website from the ground up. The comprehensive brand guide covers visual identity, typography, color palette, photography direction, web styles, collateral templates, social media guidelines, product design standards, and email templates.
+
+---
+
+### 104. OG Sanctuary City (Domestic Violence Project at Urban Justice Center)
+
+✅ **STRONG** — Solid case study worth showing to relevant prospects. Especially compelling for nonprofit, advocacy, campaign, and social justice prospects.
+
+*A campaign landing page designed to amplify immigrant voices and support citywide advocacy*
+
+| | |
+|---|---|
+| **Industry** | Nonprofit Organizations |
+| **Services** | Web Design, WordPress Development |
+| **Live Site** | Visit Site |
+
+**What We Did**
+
+The Domestic Violence Project at the Urban Justice Center approached Studio Simpatico to design and build a campaign landing page for The Original Sanctuary City, a citywide awareness effort centered on immigrant stories in New York City. Working closely with their internal team and an external animation partner, we helped translate a powerful campaign concept into a focused digital experience that could support storytelling, participation, and advocacy.
+
+Setting the Stage
+
+The Domestic Violence Project launched The Original Sanctuary City as a public awareness campaign highlighting immigrant voices across New York City. Anchored by a long-form animated video and supported by a paid social and email rollout, the campaign required a focused digital home that could contextualize its message, invite participation, and support fundraising efforts. Our role was to translate a strong campaign concept into a clear, adaptable web experience that could launch quickly and continue evolving as new stories were collected and shared.
+
+Designing for Participation
+
+Because most visitors would arrive via social media, the site needed to work immediately, without explanation. Discovery focused on understanding how users would encounter the campaign, what would motivate them to engage, and how to remove unnecessary friction from participation. Early conversations surfaced the importance of simplicity. Rather than building a complex submission system, we worked with the client to develop a lightweight approach that leveraged existing platforms and internal workflows. This allowed the Domestic Violence Project to curate stories thoughtfully while keeping the user experience intuitive and accessible.
+
+A Story in Scroll Form
+
+Wireframes became the foundation for aligning strategy, content, and functionality. We structured the site as a single narrative flow, beginning with the hero video, moving through campaign context and calls to action, and culminating in a living gallery of community stories. This linear structure supported both first-time visitors and repeat users, guiding attention without feeling prescriptive. The wireframes also established clear patterns for displaying varied content types — from social embeds to text-based submissions — ensuring consistency as the collection grew. Collaborative reviews allowed stakeholders to refine layout and messaging early, keeping later phases efficient and focused.
+
+Built to Grow
+
+The site was developed as a standalone WordPress microsite, giving the campaign its own technical and visual identity while remaining easy to manage internally. A custom theme and structured content models enabled staff to publish new stories, embed media from multiple platforms, and manage accessibility requirements without developer support. Development emphasized performance, responsiveness, and longevity. By keeping the system lightweight and purpose-built, the final product supported a timely launch and ongoing campaign activity. The result is a flexible digital platform that continues to serve as the campaign's central hub, amplifying immigrant voices while supporting the organization's broader advocacy work.
+
+---
+
+### 105. CitizensNYC (Citizens Committee for New York City)
+
+✅ **STRONG** — Solid case study worth showing to relevant prospects. Especially compelling for nonprofit, civic engagement, and community-focused prospects.
+
+*A bold, professional website for a longstanding civic nonprofit in NYC*
+
+| | |
+|---|---|
+| **Industry** | Nonprofit Organizations |
+| **Services** | Web Design, WordPress Development |
+| **Live Site** | Visit Site |
+
+**What We Did**
+
+The CitizensNYC team approached us hoping for a new website that they felt was representative of their history of involvement with communities throughout the city as well as their longstanding partners. They were seeking something both professional and clean-looking, while also conveying their bold and colorful history and mission. We built them a fresh, responsive site in WordPress from the ground up, from the wireframes, to the designs, to the development of this fresh site.
+
+Citizens Committee for New York City (CitizensNYC) is a local NYC nonprofit that was founded way back in 1975. The nonprofit was founded at a difficult moment in NYC's history, and its aim was to bolster the city with community building and engagement, encouraging city dwellers to get involved and help out their neighbors and communities. The organization has been true to this mission ever since, providing small businesses and community groups with small grants that allow them to make a difference to their communities.
+
+Getting to Know the Organization
+
+We kicked off the project by meeting with the CitizensNYC team to learn everything we could about the organization and their goals for the new website. We learned about the types of businesses and groups that they provide grants to; their relationship with municipal departments; and their history of encouraging individuals to make a difference in their communities.
+
+One of the biggest challenges of their website was the lack of organization around their grantees. On their existing site, the team had been using a Google map that they embedded into their grantee page, but this didn't offer the functionality they needed. The team made it clear that one of their priorities for the new site was to create a simple and easy to use map so that visitors could see the grantees, but also easily search and filter them.
+
+Additionally, the organization hosts two large fundraisers every year, and they were used to using an external site to create pages to showcase the details of these events. It was a priority for them to be able to create pages within their own WordPress site that could accommodate layouts like partner features, event sponsors, and event chairs, all in a more flexible and visually appealing way.
+
+We took what we learned and translated it all into a new site map and wireframes for each page, based in a modular framework so that the team can make new pages easily in the future as they inevitably grow and change.
+
+A Cleaned-Up Look
+
+The CitizensNYC team came to us with an undefined visual identity but with a distinct feeling in mind, as well as a palette they wanted to stick with. Filled with shades of blue and a pop of yellow, their colors went perfectly with the professional but dynamic (and unmistakably NYC) look the team was aiming for. They didn't want to go too funky, to make sure their longstanding city government partners were comfortable, but wanted to make sure to convey the boldness and dynamism of their organization to their potential grantees.
+
+From the two directions we proposed to the team, they chose to go with a design that features a blocky headline font called Polymath. This is the perfect font to hearken back to their origins in the 1970s, and serves as a simple but strong basis for the rest of their site. We chose to set the blockiness of Polymath against Minion Pro, a more delicate but still polished sans serif that users are familiar with.
+
+We brought the CitizensNYC color palette into play by utilizing big blocks of color as backgrounds, with lots of contrast between the blacks, blues, light blues, and yellows. This contrast is softened by the animated gradients within the all-caps headlines, which bring movement and a pleasing color transition to bring everything together.
+
+Paired with photography from the organization's grantees and events, the design of the site gives the non-profit a well-rounded, established effect while remaining compelling and lively.
+
+A Custom WordPress Build
+
+Once design was finalized, we went into our development cave and put the whole thing together in WordPress, creating a custom build that allows maximum flexibility with minimum room for error for the organization's content managers. Requirements like the grantee map and event landing pages are seamlessly designed with the same look and feel as the rest of the site, increasing usability for both the site visitors and the content managers.
+
+With the design customized for every breakpoint, the site is responsive without sacrificing visuals, and is easy to use from any screen size. Additionally, the content managers now have an infinitely flexible set of modules in their page builder template, which they can use over and over to build new landing pages. The best part? Everything is custom designed for CitizensNYC and their brand.
+
+---
+
+### 106. Slice Communications
+
+🟡 **SITUATIONAL** — Use when the industry/service match is particularly strong. Especially relevant for professional services, PR/marketing agencies, and communications firms.
+
+*A website redesign and custom WordPress build for a strategic communications agency obsessed with the right kind of attention*
+
+| | |
+|---|---|
+| **Industry** | Professional Services |
+| **Services** | Web Design, WordPress Development |
+| **Live Site** | Visit Site |
+
+**What We Did**
+
+Slice Communications is a Philadelphia-based PR, marketing, and public affairs agency that exists to "get, keep, and use attention." After completing a thoughtful rebrand and undergoing years of growth, Slice's leadership recognized that their website no longer reflected who they had become. As they continued to attract larger, more complex engagements, the team needed a digital presence that clearly articulated their evolution, demonstrated their strategic rigor, and made it easy for prospective clients to understand the value of working with a true communications co-pilot. Slice partnered with Simpatico to redesign the site from the ground up, rethinking the information architecture, clarifying the narrative, and bringing the new brand to life within a flexible, modular custom WordPress build.
+
+Getting Started
+
+Our discovery phase focused on immersing ourselves in the Slice ethos. Through conversations with the leadership team, it became clear that Slice's strongest relationships stem from curiosity, transparency, and a commitment to collaborative problem-solving (something the Simpatico team relates to deeply!). Slice's clients don't come to them for a predefined bundle of services; they come because they face complex communications challenges — crises, leadership transitions, brand evolutions, internal alignment issues — and they need a partner who will listen carefully, diagnose thoughtfully, and guide them toward the right path.
+
+We also explored how prospects arrive at Slice today. Most new business comes through referrals, EOS and leadership networks, webinars, and the sizable body of thought leadership collected within Slice University, the company's series of webinars and blogs. The website, however, wasn't doing enough to convert this passive interest into meaningful conversations. With the goal of increasing promising conversions, we set out to design a web experience that honored the depth of Slice's expertise while making it significantly easier for visitors to understand what Slice does, how they think, and what a partnership with them feels like.
+
+Crafting a Client-Centric Narrative and Structure
+
+A central aim of the redesign was shifting the narrative away from Slice's internal capabilities and toward the needs of the visitor. Rather than overwhelming users with long lists of services, we reframed the site around the core problems Slice helps organizations solve: crisis moments, brand evolutions, executive communications challenges, reputational needs, and audience engagement efforts. This shift allowed us to create clear pathways for two kinds of visitors: those who know the business problem but don't yet know the tactic, and those who arrive seeking a specific capability like PR or social media support.
+
+To support these two user pathways, we redesigned the site's structure around an intuitive navigation that mirrors how real visitors search for help. On the Proven Results landing page, case studies and narratives demonstrating results give visitors a glimpse into Slice's strategic process and outcomes. The Solutions page articulates the higher-level challenges Slice addresses, with a Capabilities section that offers a straightforward layout of the firm's services. "Slice University" becomes a place where webinars, articles, and resources are easy to browse and understand. A sticky navigation with a persistent "Start a Conversation" call-to-action invites potential clients to reach out at any point.
+
+In the backend of the new CMS, the information architecture allows Slice to maintain a library of industry-specific and solution-specific landing pages — valuable for sales conversations without burdening the global navigation. The result is a site that feels streamlined and effortless to explore, while still maintaining the depth required for a sophisticated communications firm.
+
+Extending the Slice Brand for Digital
+
+Slice entered the engagement with a refreshed visual identity, including a new logomark, an evolved color palette, and a more sophisticated typographic system, all created to mark the firm's transition from scrappy upstart to seasoned strategic partner. Our job was to extend this identity into a cohesive digital system that felt true to Slice. We leaned into the bold geometry and confident typography of the new branding, using clean layouts and strong typographic contrasts to create a clear hierarchy. The vibrant but still professional palette helps strike a balance between approachability and sophistication. In place of dense paragraphs, we introduced breathing room, scannable structure, and moments of visual storytelling. Photography plays a more intentional role: rather than leaning into agency culture shots, imagery focuses on the people and organizations Slice serves, subtly highlighting how Slice prioritizes their clients. Throughout the design process, we asked a simple question: does this feel like Slice to someone who already knows and loves working with them? Every visual decision supported that north star.
+
+Designing a Home for Slice University and Thought Leadership
+
+Thought leadership is a cornerstone of Slice's lead generation, yet the previous website buried valuable content under difficult navigation and inconsistent categorization. We reimagined Slice University as a cohesive, modern resource ecosystem where all content types (articles, webinars, digital downloads, and events) live together in a unified design system. Visitors can now filter and browse by topic, attention type, solution, or format, mirroring how real users search for insight. Each resource page is designed to be both helpful in isolation and naturally connected to the broader story of Slice's expertise, offering related content, relevant solutions, and simple paths forward. The result is a hub that serves both the "always learning" ethos of the team and the practical need for better lead nurturing.
+
+A Modular WordPress Build for a Content-Driven Team
+
+Because Slice produces content continuously, the new site needed to be easy to update, flexible, and fast. We built a custom modular WordPress theme that allows the Slice team to assemble pages using a library of reusable components that can be combined in different ways to suit their content. This system gives the team the ability to launch new landing pages, refresh content, and maintain consistency across the site without relying on a bloated page builder or custom development for each update. We also implemented structured taxonomies for case studies, solutions, capabilities, industries, and content types, enabling dynamic relationships throughout the site. The build is accessible, performant, and designed with longevity in mind.
+
+Making It Easy to Start a Conversation
+
+Ultimately, the website needed to do what Slice does best: open the door to a genuine strategic partnership. We ensured that every pathway, from case studies to solutions to resource content, naturally culminates in an invitation to talk. The "Start a Conversation" language reflects Slice's approach: warm, human, and rooted in collaboration rather than sales pressure. Visitors can sense immediately that Slice is not a vendor waiting for instructions, but a co-pilot ready to chart a thoughtful path forward.
+
+---
+
+### 107. GrowNYC
+
+✅ **STRONG** — Solid case study worth showing to relevant prospects. Especially compelling for large nonprofit, environmental, food access, and civic organization prospects. Case study write-up pending.
+
+*A complete website redesign for a 53-year-old environmental nonprofit, bringing their mission and programs to life with a modern, accessible WordPress build*
+
+| | |
+|---|---|
+| **Industry** | Nonprofit Organizations |
+| **Services** | Web Design, WordPress Development |
+| **Live Site** | [grownyc.org](https://grownyc.org) |
+
+**What We Did**
+
+GrowNYC is a 53-year-old environmental nonprofit that empowers New Yorkers with equitable access to fresh, locally grown food, neighborhood green spaces, and opportunities to reduce waste and care for the environment. They operate Greenmarkets, Farmstands, Zero Waste programming including food scrap drop-off sites and Stop 'N' Swaps, build and restore community gardens, and engage New Yorkers of all ages in environmental education.
+
+GrowNYC's previous website was built in Drupal (originally 2008, upgraded 2012) and no longer reflected the organization's scale or impact. With over 800,000 annual visitors — 70% of whom go straight to program maps and 60% on mobile devices — the site was outdated, not mobile-responsive, hard to navigate, lacked language accessibility, and was overloaded with information. It failed to tell the story of their vast environmental and food accessibility impact across New York City.
+
+We redesigned and rebuilt the site in WordPress, focusing on significant content and page reduction, cohesive branding and mission integration, storytelling to motivate participation and donations, and making program information easy to find. The new brand (created externally) was incorporated throughout the site, giving GrowNYC a modern, dynamic digital presence that matches the energy of their work on the ground.
+
+A key technical achievement was the full Filemaker integration, which auto-populates Greenmarket pages with real-time information about which farmers and producers are attending on any given day — critical functionality for the hundreds of thousands of visitors who come to the site looking for market information. Interactive maps consolidate all public-facing program sites (Greenmarkets, Farmstands, food drop-off sites, community gardens) onto a single, filterable map, replacing the previously fragmented system of separate maps.
+
+The build also addressed language access (a critical requirement for the diverse communities GrowNYC serves), incorporated the wholesale division and food hub pages, and created a robust press page with downloadable resources. The modular WordPress theme gives the GrowNYC team the flexibility to manage and update content independently.
 
 ---
 
